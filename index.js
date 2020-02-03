@@ -11,7 +11,7 @@ console.log(imageName.innerHTML)
 const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1574761363/relyens-olivet/relyens-olivet-00.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1574761687/relyens-olivet/relyens-olivet-01.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1574813868/relyens-olivet/relyens-olivet-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580707133/ca-jussey/cam01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1574813983/relyens-olivet/relyens-olivet-03.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1574808497/relyens-olivet/relyens-olivet-04.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1574809392/relyens-olivet/relyens-olivet-05.jpg',
