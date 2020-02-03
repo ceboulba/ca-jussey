@@ -28,6 +28,11 @@ const imgName= [
   'Vue 02',
   'Vue 03',
   'Vue 04',
+  'Vue 05',
+  'Vue 06',
+  'Vue 07',
+  'Vue 08',
+  'Vue 09',
 ]
 
 let num = 0
