@@ -19,7 +19,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1580769628/ca-jussey/cam05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580736995/ca-jussey/cam18.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580720640/ca-jussey/cam11.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1580721036/ca-jussey/cam20.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580772537/ca-jussey/cam20.jpg',
 ]
 const imgName= [
   'Vue axo 01',
