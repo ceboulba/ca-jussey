@@ -17,7 +17,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1580715596/ca-jussey/cam09.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580719923/ca-jussey/cam16.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580733315/ca-jussey/cam05.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1580720817/ca-jussey/cam18.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580736995/ca-jussey/cam18.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580720640/ca-jussey/cam11.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580721036/ca-jussey/cam20.jpg',
 ]
