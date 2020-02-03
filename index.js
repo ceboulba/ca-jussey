@@ -16,7 +16,6 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1580715376/ca-jussey/cam10.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580708513/ca-jussey/cam05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580715596/ca-jussey/cam09.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1574809392/relyens-olivet/relyens-olivet-05.jpg',
 ]
 const imgName= [
   'Vue axo 01',
