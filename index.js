@@ -12,7 +12,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1574761363/relyens-olivet/relyens-olivet-00.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1574761687/relyens-olivet/relyens-olivet-01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580765411/ca-jussey/cam01.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1580719118/ca-jussey/cam08.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580767129/ca-jussey/cam08.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580715376/ca-jussey/cam10.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580715596/ca-jussey/cam09.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580719923/ca-jussey/cam16.jpg',
