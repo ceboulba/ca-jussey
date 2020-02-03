@@ -14,9 +14,9 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1580713699/ca-jussey/cam01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580719118/ca-jussey/cam08.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580715376/ca-jussey/cam10.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1580708513/ca-jussey/cam05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580715596/ca-jussey/cam09.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580719923/ca-jussey/cam16.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580708513/ca-jussey/cam05.jpg',
 ]
 const imgName= [
   'Vue axo 01',
