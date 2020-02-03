@@ -87,7 +87,7 @@ const check = () => {
   num === 1 ? imgView.src = imgs[1] : null
 }
 
-//check() a ajouter au cas ou
+check()
 
 const next = () => {
   num < imgs.length - 1 ?
