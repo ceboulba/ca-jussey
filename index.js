@@ -24,8 +24,10 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1580772537/ca-jussey/cam20.jpg',
 ]
 const imgName= [
-  'Vue axo 01',
-  'Vue axo 02',
+  'Vue axo RDC 01',
+  'Vue axo RDC 02',
+  'Vue axo Etage 01',
+  'Vue axo Etage 02',
   'Vue 01',
   'Vue 02',
   'Vue 03',
@@ -35,8 +37,6 @@ const imgName= [
   'Vue 07',
   'Vue 08',
   'Vue 09',
-  'Vue 10',
-  'Vue 11',
 ]
 
 let num = 0
