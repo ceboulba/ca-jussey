@@ -97,6 +97,7 @@ const check = () => {
   num === 1 ? imgView.src = imgs[1] : null
   num === 2 ? imgView.src = imgs[2] : null
   num === 3 ? imgView.src = imgs[3] : null
+  num === 9 ? imgView.src = imgs[9] : null
 }
 
 check()
