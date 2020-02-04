@@ -34,6 +34,7 @@ const imgName= [
   'Vue 07',
   'Vue 08',
   'Vue 09',
+  'Vue 10',
 ]
 
 let num = 0
