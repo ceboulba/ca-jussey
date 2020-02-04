@@ -9,8 +9,8 @@ const imageName = document.querySelector('.imageName')
 console.log(imageName.innerHTML)
 
 const imgs = [
-  'https://res.cloudinary.com/archipicture/image/upload/v1574761363/relyens-olivet/relyens-olivet-00.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1574761687/relyens-olivet/relyens-olivet-01.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580795988/ca-jussey/axo-RDC-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580795982/ca-jussey/axo-RDC-01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580765411/ca-jussey/cam01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580767129/ca-jussey/cam08.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580794790/ca-jussey/cam10.jpg',
