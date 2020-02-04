@@ -12,6 +12,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1580795988/ca-jussey/axo-RDC-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580795982/ca-jussey/axo-RDC-01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580796545/ca-jussey/axo-Etage-01.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1580797168/ca-jussey/axo-Etage-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580765411/ca-jussey/cam01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580767129/ca-jussey/cam08.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1580794790/ca-jussey/cam10.jpg',
@@ -35,6 +36,7 @@ const imgName= [
   'Vue 08',
   'Vue 09',
   'Vue 10',
+  'Vue 11',
 ]
 
 let num = 0
@@ -79,7 +81,7 @@ var createScene = function () {
 const scene = createScene()
 
 const check = () => {
-  num <= 2 ?( () => {
+  num <= 3 ?( () => {
     canvas.classList.add('hide');
     imgBox.classList.remove('hide');
     viewType.classList.add('hide')
@@ -93,6 +95,7 @@ const check = () => {
   num === 0 ? imgView.src = imgs[0] : null
   num === 1 ? imgView.src = imgs[1] : null
   num === 2 ? imgView.src = imgs[2] : null
+  num === 3 ? imgView.src = imgs[3] : null
 }
 
 check()
